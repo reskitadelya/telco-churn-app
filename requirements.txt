@@ -1,0 +1,8 @@
+# Versi library yang memengaruhi file model (.joblib) dikunci agar model bisa dibuka di komputer / server lain.
+streamlit>=1.50
+pandas>=2.0
+numpy>=1.26
+scikit-learn==1.9.1
+imbalanced-learn==0.14.2
+joblib==1.6.0
+plotly>=5.24
